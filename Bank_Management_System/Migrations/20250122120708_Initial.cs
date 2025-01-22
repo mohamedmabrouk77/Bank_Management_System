@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Bank_Management_System.Migrations
 {
-    /// <inheritdoc />
+    /// <inheritdoc />/////
     public partial class Initial : Migration
     {
         /// <inheritdoc />
